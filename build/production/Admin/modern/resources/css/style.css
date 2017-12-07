@@ -1,0 +1,11 @@
+body {
+    background-image:url('../images/street-background.jpg');
+    background-size:cover;
+    background-color: #bbb;
+    background-repeat: no-repeat;
+    background-position: center;    
+}
+/*body {
+    background-image:url('https://placeimg.com/800/600/arch/grayscale');
+}*/
+

@@ -1,0 +1,24 @@
+{
+  "name": "ui-ext-authentication",
+  "authors": [
+    "Yuri Basov <w3devlab@gmail.com>"
+  ],
+  "description": "Sencha Modern Authentication User Interface",
+  "main": "",
+  "keywords": [
+    "authentication",
+    "user",
+    "login",
+    "register",
+    "password"
+  ],
+  "license": "GPL 3.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

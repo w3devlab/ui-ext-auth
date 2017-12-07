@@ -1,0 +1,7 @@
+{
+    success: false,
+    location: '/',
+    email: 'user@site.com',
+    password: '',
+    msg: 'Invalid email or password.'
+}

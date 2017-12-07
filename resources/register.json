@@ -1,0 +1,9 @@
+{
+    success: false,
+    firstName: 'John',
+    lastName: 'Green',
+    email: 'user@site.com',
+    password: '',
+    agree: false,
+    msg: 'Email user@site.com already exists.'
+}

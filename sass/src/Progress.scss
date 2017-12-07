@@ -1,0 +1,21 @@
+
+@include progress-ui(
+    $ui: 'small',
+    $min-height: 4px,
+    $progress-min-height: 4px,
+    $progress-text-line-height: px-to-em(4px, 3px),
+    $text-line-height: px-to-em(4px, 3px),
+    $aaa: 12
+);
+
+@include extjs-progress-ui(
+    $ui: 'small',
+    $min-height: 4px,
+    $progress-min-height: 4px,
+    $progress-text-line-height: px-to-em(4px, 3px),
+    $text-line-height: px-to-em(4px, 3px),
+    $aaa: 12
+);
+
+
+$progress-min-height: 4px;

@@ -1,0 +1,22 @@
+{
+    "name": "w3devlab/ui-ext-auth",
+    "description": "Sencha Modern Authentication User Interface",
+    "type": "library",
+    "keywords": ["sencha","auth","library","ui"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Yuri Basov",
+            "email": "w3devlab@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/w3devlab"
+        }
+    ]
+}
